@@ -1,0 +1,25 @@
+{
+    "name": "KuzuStudios.Kutils.Editor.Tests",
+    "rootNamespace": "KuzuStudios.Kutils.Editor.Tests",
+    "references": [
+        "KuzuStudios.Kutils.Editor",
+        "KuzuStudios.Kutils",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

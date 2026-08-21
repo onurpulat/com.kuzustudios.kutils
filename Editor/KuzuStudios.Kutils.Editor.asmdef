@@ -1,0 +1,18 @@
+{
+    "name": "KuzuStudios.Kutils.Editor",
+    "rootNamespace": "KuzuStudios.Kutils.Editor",
+    "references": [
+        "KuzuStudios.Kutils"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
